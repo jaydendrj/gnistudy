@@ -26,5 +26,5 @@ arr = np.arange(16).reshape((2,2,4))
 # print(arr.transpose((2,1,0)))
 # print(arr.swapaxes(0,1))
 import random
-arr =np.random.randn(7)*5
+arr =np.random.randn(7)*58
 print(np.modf(arr))
